@@ -4,14 +4,14 @@
     <groupId>io.zeelos.kafka.connect</groupId>
     <artifactId>transforms</artifactId>
     <packaging>jar</packaging>
-    <version>0.4-SNAPSHOT</version>
+    <version>0.5-SNAPSHOT</version>
 
     <name>transforms</name>
     <description>A list of Kafka Connect transformations that may be useful.</description>
 
     <properties>
-        <kafka.version>2.2.0-cp2</kafka.version>
-        <confluent.version>5.2.1</confluent.version>
+        <kafka.version>2.2.1-cp1</kafka.version>
+        <confluent.version>5.2.2</confluent.version>
         <junit.version>4.12</junit.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
